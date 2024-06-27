@@ -16,4 +16,4 @@ target/
 *.pyc
 *.py~
 *md~
-.project1
+.project
